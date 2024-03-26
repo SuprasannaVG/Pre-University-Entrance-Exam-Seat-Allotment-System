@@ -17,10 +17,10 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
 
 2. **User Interface Webpages**:
     - **Register Page**: This webpage allows new users to create an account by providing necessary details such as username, email, and password. Upon submission, the information is stored in the Register table.
-      ![Screenshot 2024-03-05 102308](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/8c8b530b-017a-4176-8e97-5809c49e12b7)
+       ![Screenshot 2024-03-27 000009](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/2417ba90-9c46-44b5-9aba-29ffb99c2a0e)
 
     - **Login Page**: This webpage enables registered users to log in by entering their credentials. Upon successful authentication, users are redirected to their respective dashboards.
-      ![Screenshot 2024-03-05 102405](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/3f77c090-43b3-4cb8-8cdb-9b44705fba16)
+      ![Screenshot 2024-03-26 235913](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/013a0a69-cbc8-4195-9b8b-54d788717134)
       
     - **Student Details Page**: This webpage displays and allows users to manage their personal information stored in the Student Details table. Users can update their details as necessary.
       ![Screenshot 2024-03-05 102906](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/cb8ea4b7-3aee-4e6c-aa68-dd179a0fa8dc)
