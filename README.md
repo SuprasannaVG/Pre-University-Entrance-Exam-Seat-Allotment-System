@@ -1,5 +1,7 @@
 # Pre-University-Entrance-Exam-Seat-Allotment-System
 # Skills: SQL , Python, PHP, HTML-CSS
+![Screenshot 2024-03-05 105436](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/7473edaf-3544-4e94-b15d-88759372e326)
+
 
 # Introduction:
 The Pre-University Entrance Exam Seat Allotment System is a comprehensive platform designed to efficiently allocate available seats across various streams—Science, Commerce, Arts, and Diploma—based on students' entrance exam results. With limited seats available for each stream, this system prioritizes the allocation process by initially assigning seats to the least-ranked students, ensuring fair distribution and optimal utilization of resources. Leveraging a combination of SQL for database management and Python, PHP, and HTML-CSS for web development, this system streamlines the seat allotment process, providing a transparent and accessible interface for students, administrators, and stakeholders involved in the pre-university education system.
@@ -15,10 +17,22 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
 
 2. **User Interface Webpages**:
     - **Register Page**: This webpage allows new users to create an account by providing necessary details such as username, email, and password. Upon submission, the information is stored in the Register table.
+      ![Screenshot 2024-03-05 102308](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/8c8b530b-017a-4176-8e97-5809c49e12b7)
+
     - **Login Page**: This webpage enables registered users to log in by entering their credentials. Upon successful authentication, users are redirected to their respective dashboards.
+      ![Screenshot 2024-03-05 102405](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/3f77c090-43b3-4cb8-8cdb-9b44705fba16)
+      
     - **Student Details Page**: This webpage displays and allows users to manage their personal information stored in the Student Details table. Users can update their details as necessary.
+      ![Screenshot 2024-03-05 102906](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/cb8ea4b7-3aee-4e6c-aa68-dd179a0fa8dc)
+      ![Screenshot 2024-03-05 102950](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/42085858-895e-4350-92aa-78dad0e4dbce)
+      
     - **Course Details Page**: This webpage provides information about available courses, including descriptions, durations, and prerequisites, retrieved from the Course Details table.
+      ![Screenshot 2024-03-05 103112](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/aa3f58f5-450c-4deb-a950-e3363d59dbf1)
+      
+      
     - **Result Page**: This webpage displays the results of the entrance exam or assessments stored in the Result table. Users can view their scores or ranks.
+      ![Screenshot 2024-03-05 103212](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/623ec6d3-90e9-434d-95bf-b005e685fdfe)
+      ![Screenshot 2024-03-05 103247](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/add9aa5a-13fd-48a3-8f3e-06b05ed2185c)
 
 3. **Backend Implementation**:
     - The backend logic is implemented using Python and PHP for database interaction, user authentication, and data retrieval.
