@@ -42,9 +42,16 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
       ![Screenshot 2024-03-27 002316](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/c08a255d-7bb9-4a60-9b65-c81e67666888)
 
 3. **Backend Implementation**:
+
     - The backend logic is implemented using Python and PHP for database interaction, user authentication, and data retrieval.
     - SQL queries are utilized to perform CRUD operations (Create, Read, Update, Delete) on the database tables.
     - Authentication mechanisms are implemented to ensure secure access to user-specific data and functionalities.
+   
+   ![Screenshot 2024-03-27 004025](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/2133c9a7-3185-4725-b3e9-596a4340bad9)
+   ![Screenshot 2024-03-27 004048](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/18ecf811-b8c4-4a06-bbf7-95ee69f94eb7)
+   ![Screenshot 2024-03-27 004102](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/94d7baa6-8d65-4434-9d2e-b12a4173b9c8)
+     
+
 
 4. **Frontend Implementation**:
     - HTML and CSS are used to design the user interface of the webpages, ensuring an intuitive and user-friendly experience.
