@@ -32,7 +32,12 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
       
     - **Result Page**: This webpage displays the results of the entrance exam or assessments stored in the Result table. Users can view their scores or ranks.
       ![Screenshot 2024-03-05 103212](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/623ec6d3-90e9-434d-95bf-b005e685fdfe)
+      ![Screenshot 2024-03-19 131759](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/e7a5bcde-5342-4346-a7e5-264a7ae59dd0)
+      
       ![Screenshot 2024-03-05 103247](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/add9aa5a-13fd-48a3-8f3e-06b05ed2185c)
+     # Special Access to Admin
+     
+      ![adminClg](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/12794e6d-323d-4dd4-b357-353954fc38eb)
 
 3. **Backend Implementation**:
     - The backend logic is implemented using Python and PHP for database interaction, user authentication, and data retrieval.
