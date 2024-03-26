@@ -23,8 +23,8 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
       ![Screenshot 2024-03-26 235913](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/013a0a69-cbc8-4195-9b8b-54d788717134)
       
     - **Student Details Page**: This webpage displays and allows users to manage their personal information stored in the Student Details table. Users can update their details as necessary.
-      ![Screenshot 2024-03-05 102906](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/cb8ea4b7-3aee-4e6c-aa68-dd179a0fa8dc)
-      ![Screenshot 2024-03-05 102950](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/42085858-895e-4350-92aa-78dad0e4dbce)
+      ![Screenshot 2024-03-27 000258](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/60b3f117-30e9-417b-8a5c-f70c0bc99adf)
+      ![Screenshot 2024-03-27 000331](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/631dc7a9-30ed-483a-ad3f-48b262ad2cb7)
       
     - **Course Details Page**: This webpage provides information about available courses, including descriptions, durations, and prerequisites, retrieved from the Course Details table.
       ![Screenshot 2024-03-05 103112](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/aa3f58f5-450c-4deb-a950-e3363d59dbf1)
