@@ -31,7 +31,7 @@ The Pre-University Entrance Exam Seat Allotment System is a comprehensive platfo
       
       
     - **Result Page**: This webpage displays the results of the entrance exam or assessments stored in the Result table. Users can view their scores or ranks.
-      
+      ![Screenshot 2024-03-19 131759](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/32ecdc45-9d8a-4223-928d-cfcfc2f29d57)
       ![Screenshot 2024-03-05 103212](https://github.com/SuprasannaVG/Pre-University-Entrance-Exam-Seat-Allotment-System/assets/125822020/623ec6d3-90e9-434d-95bf-b005e685fdfe)
 
       
